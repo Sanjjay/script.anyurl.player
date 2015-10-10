@@ -4,18 +4,18 @@
 //
 // @description Resolve and play media on Kodi/XBMC
 // @description Use with AnyURL plugin from:
-// @description  https://github.com/VioletRed/script.anyurl.player/wiki
+// @description  https://github.com/Sanjjay/script.anyurl.player/wiki
 //
 // @date        2015-07-25
 // @version     28.1
 // @include     *
-// @require     https://github.com/VioletRed/GM_config/raw/master/gm_config.js
-// @require     https://github.com/VioletRed/script.anyurl.player/raw/master/json/UI_Elements.js
+// @require     https://github.com/Sanjjay/GM_config/raw/master/gm_config.js
+// @require     https://github.com/Sanjjay/script.anyurl.player/raw/master/json/UI_Elements.js
 // @grant       GM_addStyle
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @grant       GM_xmlhttpRequest
-// @updateURL   https://github.com/VioletRed/script.anyurl.player/raw/master/json/Play_on_XBMC.user.js
+// @updateURL   https://github.com/Sanjjay/script.anyurl.player/raw/master/json/Play_on_XBMC.user.js
 // ==/UserScript==
 //
 // Simple script to send media to Kodi.
@@ -23,7 +23,7 @@
 // Supported plugins:
 // 	* Youtube
 //	* TED
-// 	* AnyURL plugin for other domains (https://github.com/VioletRed/script.anyurl.player).
+// 	* AnyURL plugin for other domains (https://github.com/Sanjjay/script.anyurl.player).
 //
 // It uses the old GM_*** API, and needs cleaning.
 
